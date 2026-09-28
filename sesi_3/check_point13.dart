@@ -1,5 +1,4 @@
 // File: list_map_example.dart
-import 'dart:io';
 
 void main() {
   // List berisi Map (setiap Map merepresentasikan data mahasiswa)
